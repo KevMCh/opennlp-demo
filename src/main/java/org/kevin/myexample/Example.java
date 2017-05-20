@@ -1,3 +1,7 @@
+/**
+ * Example to use this project.
+ */
+
 package org.kevin.myexample;
 
 import java.io.BufferedReader;
@@ -26,7 +30,12 @@ public class Example {
         
         return finalString;
     }
-
+	
+	/**
+	 * Main class
+	 * @param args
+	 * @throws Exception
+	 */
 	public static void main(String[] args) throws Exception {
 				
 		if(args.length <= 0) {
