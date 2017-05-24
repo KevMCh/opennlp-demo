@@ -1,4 +1,4 @@
-package org.kevin.myexample;
+package org.kevin.myexample.test;
 
 import static org.junit.Assert.*;
 
@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import org.junit.*;
+import org.kevin.myexample.Example;
 
 public class ExampleTest {
 	

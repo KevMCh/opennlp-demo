@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testrun name="ExampleTest" project="nlp-demo1" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="org.kevin.myexample.test.ExampleTest" time="0.12">
+    <testcase name="readAFile" classname="org.kevin.myexample.test.ExampleTest" time="0.096"/>
+    <testcase name="createTokens" classname="org.kevin.myexample.test.ExampleTest" time="0.024"/>
+  </testsuite>
+</testrun>
